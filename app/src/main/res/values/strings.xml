@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aplicação</string>
+    <string name="txtMainTitulo">Menu Principal</string>
+    <string name="txtMainLogin">Login Page</string>
+    <string name="txtMainImageContentDescription">Example Image</string>
+    <string name="txtLoginTitulo">Login</string>
+    <string name="txtLoginEmail">E-mail:</string>
+    <string name="txtLoginSenha">Senha:</string>
+    <string name="txtLoginEntrar">Entrar</string>
+    <string name="txtLoginHintEmail">Insira aqui o seu e-mail...</string>
+    <string name="txtLoginHintSenha">Insira aqui a sua senha...</string>
+</resources>
